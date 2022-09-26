@@ -19,7 +19,7 @@ Output - You found the number in 3 attempts.
 
 ## More Challenging
 
-- [ ] Ask if the player wants to play again.
+- [ ] Ask if the player wants to play again;
 - [ ] Do not allow numbers greater than the maximum or numbers less than the minimum;
 - [ ] Limit attempts;
 - [ ] Ask for the hidden maximum number. Example: 1 - 10, or 1 - 999;
