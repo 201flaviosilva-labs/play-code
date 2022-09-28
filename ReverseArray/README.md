@@ -19,3 +19,4 @@ Output - [2, 3, 1]
 - [ ] Print the negatives numbers;
 - [ ] Return the some of all;
 - [ ] Return the number of even numbers;
+- [ ] Sort the array;

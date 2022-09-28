@@ -26,7 +26,7 @@ class Main {
 
       if(rdn>playerGuess) System.out.println("Your number is too SMALL.");
       else if(rdn<playerGuess) System.out.println("Your number is too BIG.");
-      else System.out.println("You got the number right. In " + attempts + "attempts.");
+      else System.out.println("You got the number right. In " + attempts + " attempts.");
 			
     } while (playerGuess != rdn);
   }
