@@ -19,3 +19,7 @@ Output - 5 * 8 = 40
 Output - 5 * 9 = 45
 Output - 5 * 10 = 50
 ```
+
+## More Challenging
+
+- [ ] Ask if the player wants a new number;
