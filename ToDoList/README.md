@@ -9,16 +9,19 @@ Weel as the name says, let's create a to do list.
 Menu:
 
 ```text
-[1] -> Add
-[2] -> Remove
-[3] -> Print
-[4] -> Exit
+[1] -> Print all tasks
+[2] -> Add a new task
+[3] -> Remove a task
+[4] -> Mark task completed
+[5] -> UnMarck completed task
+[6] -> Sort A->Z
+[0] -> Exit
 ```
 
 Add:
 
 ```text
-Input - 1
+Input - 2
 Output - Write the task to add:
 Input - Study programming
 ```
@@ -26,7 +29,7 @@ Input - Study programming
 Remove:
 
 ```text
-Input - 2
+Input - 3
 Output - Write the task to remove:
 Input - Study programming
 ```
@@ -34,7 +37,7 @@ Input - Study programming
 Print:
 
 ```text
-Input - 3
+Input - 1
 Output - All the tasks:
 Output - Task 1
 Output - Task 2
