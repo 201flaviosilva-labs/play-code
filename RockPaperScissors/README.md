@@ -21,3 +21,8 @@ Input - Paper
 Output - Computer choise: Rock
 Output - You win!
 ```
+
+## More Challenging
+
+- [ ] Ask to play again;
+- [ ] Count the wins/etc...
