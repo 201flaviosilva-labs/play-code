@@ -2,7 +2,7 @@
 
 ## Description
 
-Get from the user a bunch of numbers, and after that, print them in reverse order.
+Get from the user a bunch of numbers until user press 0, and after that, print them in reverse order.
 
 ## Example
 
@@ -10,7 +10,7 @@ Get from the user a bunch of numbers, and after that, print them in reverse orde
 Input - 1
 Input - 3
 Input - 2
-Input - x
+Input - 0
 Output - [2, 3, 1]
 ```
 

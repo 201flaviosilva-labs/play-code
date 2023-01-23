@@ -1,7 +1,7 @@
 const prompt = require("prompt-sync")(); // npm i prompt-sync
 
-reverseForCycle();
-function reverseForCycle() {
+reverseCycle();
+function reverseCycle() {
   console.log("-- Reverse Cycle --");
 
   const max = Number(prompt("Max: "));

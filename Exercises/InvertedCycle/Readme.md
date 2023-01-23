@@ -1,13 +1,14 @@
-# Reverse For Cycle
+# Inverted Cycle
 
 ## Description
 
-The exercise it's more simply that looks. Using a for loop you need to print in the console the number from user input to 0.
+The exercise it's more simply that looks. Using any cycle try to print in the console the number from user input to 0.
 
 ## Example
 
 ```text
 Input - 10
+
 Output - 10
 Output - 9
 Output - 8
