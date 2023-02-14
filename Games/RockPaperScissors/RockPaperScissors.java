@@ -35,7 +35,7 @@ class Main {
       // Check Winner
       System.out.println("");
       if (player.equals(cpu)) {
-        System.out.println("Empate");
+        System.out.println("Draw");
       } else if ((player.equals("Paper") && cpu.equals("Rock")) || (player.equals("Scissors") && cpu.equals("Paper"))
           || (player.equals("Rock") && cpu.equals("Scissors"))) {
         System.out.println("Player wins :)");

@@ -1,4 +1,4 @@
-# Draw Patterns
+# ASCII Art
 
 ## Description
 

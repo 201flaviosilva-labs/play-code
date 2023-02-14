@@ -1,4 +1,4 @@
-print("Patterns")
+print("ASCII Art")
 print()
 print("-#-" * 20)
 print()
