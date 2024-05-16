@@ -1,4 +1,6 @@
-import BinarySearchTree from "./BinarySearchTree.js";
+// Check: https://github.com/201flaviosilva/utilidades/blob/main/src/DataStructures/BinarySearchTree.js
+import * as utilidades from 'https://cdn.jsdelivr.net/npm/utilidades@1.4.1/+esm';
+const { BinarySearchTree } = utilidades.DataStructures;
 
 class App {
 	constructor() {
